@@ -20,7 +20,7 @@ function renderLicenseSection(license) {
     This project was created under the ${license} license.
     `
   }
-  return '';
+  return `This project did not use licensing.`;
 }
 
 // TODO: Create a function to generate markdown for README
@@ -28,6 +28,35 @@ function generateMarkdown(data) {
   return `# ${data.title}
 
   ${renderLicenseBadge(data.license)}
+
+  ## Description
+  ${data.description}
+
+  ## Table of Contents
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Contribution](#contribution)
+  * [Tests](#tests)
+  * [Questions](#questions)
+  
+  ## Installation 
+  ${data.installation}
+
+  ## Usage
+  ${data.usage}
+
+  ## License
+  ${renderLicenseSection(data.license)}
+
+  ## Contribution
+  ${data.contribution}
+
+  ## Tests
+  ${data.test}
+
+  ## Questions
+  If you have any questions and would like to get in contact, you can reach me at my [GitHub](https://www.github.com/${data.username}) or via email ${data.email}  
 
 `;
 }
