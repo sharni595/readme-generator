@@ -1,6 +1,6 @@
 # readme-generator
 
-  [![License Badge](https://img.shields.io/badge/license-GPL-3.0-blue.svg)](#license)
+  [![License Badge](https://img.shields.io/badge/license-GPL-3.0-blue)](#license)
 
   ## Description
   Risus viverra adipiscing at in tellus integer feugiat scelerisque. Blandit aliquam etiam erat velit scelerisque in. Eros donec ac odio tempor orci dapibus ultrices in. Leo in vitae turpis massa. Porta lorem mollis aliquam ut. Nisi scelerisque eu ultrices vitae auctor eu augue ut lectus. Vel pretium lectus quam id leo in. Enim ut tellus elementum sagittis. Lectus nulla at volutpat diam ut. Nibh tortor id aliquet lectus proin nibh nisl condimentum id.
