@@ -1,3 +1,6 @@
-# Professional README Generator Starter Code
+# get funky
 
-[How to create a Professional README](./readme-guide.md)
+  
+    [![License Badge](https://img.shields.io/badge/license--blue.svg)](#license)
+    
+
