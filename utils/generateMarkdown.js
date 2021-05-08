@@ -2,9 +2,7 @@
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
   if (license !== 'None'){
-    return `
-    [![License Badge](https://img.shields.io/badge/license-${license}-blue.svg)](#license)
-    `
+    return `[![License Badge](https://img.shields.io/badge/license-${license}-blue.svg)](#license)`
   }
   return '';
 }
@@ -16,11 +14,9 @@ function renderLicenseBadge(license) {
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
   if (license !== 'None'){
-    return `
-    This project was created under the ${license} license.
-    `
+    return `This project is covered under the ${license} license.`
   }
-  return `This project did not use licensing.`;
+  return `This project does not have any licensing.`;
 }
 
 // TODO: Create a function to generate markdown for README
@@ -33,6 +29,7 @@ function generateMarkdown(data) {
   ${data.description}
 
   ## Table of Contents
+  * [Description](#description)
   * [Installation](#installation)
   * [Usage](#usage)
   * [License](#license)
