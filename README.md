@@ -1,34 +1,28 @@
 # readme-generator
 
-  [![License Badge](https://img.shields.io/badge/license-GPL-3.0-blue)](#license)
-
   ## Description
-  Risus viverra adipiscing at in tellus integer feugiat scelerisque. Blandit aliquam etiam erat velit scelerisque in. Eros donec ac odio tempor orci dapibus ultrices in. Leo in vitae turpis massa. Porta lorem mollis aliquam ut. Nisi scelerisque eu ultrices vitae auctor eu augue ut lectus. Vel pretium lectus quam id leo in. Enim ut tellus elementum sagittis. Lectus nulla at volutpat diam ut. Nibh tortor id aliquet lectus proin nibh nisl condimentum id.
+  A node application that helps a user write a professional readme by instructing them to follow the promt questions in the terminal
 
   ## Table of Contents
   * [Description](#description)
   * [Installation](#installation)
-  * [Usage](#usage)
   * [License](#license)
   * [Contribution](#contribution)
-  * [Tests](#tests)
   * [Questions](#questions)
+  * [Video](#questions)
   
   ## Installation 
-  Risus viverra adipiscing at in tellus integer feugiat scelerisque. Blandit aliquam etiam erat velit scelerisque in. Eros donec ac odio tempor orci dapibus ultrices in. Leo in vitae turpis massa. Porta lorem mollis aliquam ut. Nisi scelerisque eu ultrices vitae auctor eu augue ut lectus. Vel pretium lectus quam id leo in. Enim ut tellus elementum sagittis. Lectus nulla at volutpat diam ut. Nibh tortor id aliquet lectus proin nibh nisl condimentum id.
-
-  ## Usage
-  Risus viverra adipiscing at in tellus integer feugiat scelerisque. Blandit aliquam etiam erat velit scelerisque in. Eros donec ac odio tempor orci dapibus ultrices in. Leo in vitae turpis massa. Porta lorem mollis aliquam ut. Nisi scelerisque eu ultrices vitae auctor eu augue ut lectus. Vel pretium lectus quam id leo in. Enim ut tellus elementum sagittis. Lectus nulla at volutpat diam ut. Nibh tortor id aliquet lectus proin nibh nisl condimentum id.
+  git clone application from github to the users computer, and run a 'node install'. Once all npms are installed, run the app in the terminal with the command 'node index.js'
 
   ## License
-  This project is covered under the GPL-3.0 license.
+  This project does not have any licensing.
 
   ## Contribution
-  Me, Myself, and I
-
-  ## Tests
-  Risus viverra adipiscing at in tellus integer feugiat scelerisque. Blandit aliquam etiam erat velit scelerisque in. Eros donec ac odio tempor orci dapibus ultrices in. Leo in vitae turpis massa. Porta lorem mollis aliquam ut. Nisi scelerisque eu ultrices vitae auctor eu augue ut lectus. Vel pretium lectus quam id leo in. Enim ut tellus elementum sagittis. Lectus nulla at volutpat diam ut. Nibh tortor id aliquet lectus proin nibh nisl condimentum id.
+  Myself; sole author
 
   ## Questions
   If you have any questions and would like to get in contact, you can reach me at my [GitHub](https://www.github.com/sharni595) or via email sharni.greener@gmail.com  
+
+  ## Video 
+  [Link to video of application being run in the terminal](https://drive.google.com/file/d/1g8RBfMpNJzuazbD0Ac-uJsMbO784QyUN/view)
 
